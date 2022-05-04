@@ -33,6 +33,7 @@ Sauf que le partage des tâches n'a pas été bien fait. Résultat ils se sont t
 
 </details>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <details>
 <summary>Pour régler les conflits</summary>
 
@@ -162,4 +163,7 @@ Pour forcer la mise à jour : `git push --force origin nom_de_la_branche`.
 =======
 
 >>>>>>> 8d49dfb8c6fbc1d94d325f49e06745a1a28e6517
+=======
+
+>>>>>>> f873b474047f93271a2c3477bb9997e2c42a34c2
 
