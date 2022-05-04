@@ -167,3 +167,4 @@ Pour forcer la mise à jour : `git push --force origin nom_de_la_branche`.
 
 >>>>>>> f873b474047f93271a2c3477bb9997e2c42a34c2
 
+Hello
