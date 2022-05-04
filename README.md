@@ -32,6 +32,7 @@ Sauf que le partage des tâches n'a pas été bien fait. Résultat ils se sont t
   1. Rappatrier la branche en local PUIS récupérer les changements `git merge origin/henriette`
 
 </details>
+<<<<<<< HEAD
 <details>
 <summary>Pour régler les conflits</summary>
 
@@ -158,4 +159,7 @@ On va donc lui dire qu'on est sur de ce qu'on fait, et que "oui, ces commits ont
 :warning: **Avant de continuer, il faut quand même vérifier que tout est OK. C'est le point de non-retour**, le moment ou si on a fait une bétise, on peut perdre du travail...
 
 Pour forcer la mise à jour : `git push --force origin nom_de_la_branche`.
+=======
+
+>>>>>>> 8d49dfb8c6fbc1d94d325f49e06745a1a28e6517
 
